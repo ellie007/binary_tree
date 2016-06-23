@@ -1,4 +1,3 @@
-require 'pry'
 require_relative 'binary_tree'
 
 describe BTree do

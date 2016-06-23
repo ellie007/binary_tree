@@ -1,4 +1,3 @@
-require 'pry'
 class BTree
   attr_accessor :value, :parent, :left_child, :right_child
 
